@@ -1,5 +1,7 @@
 # Public Wiki
 
+Website: https://bodhi-root.github.io/public-wiki/
+
 This is the second incarnation of my public wiki site.  Unlike the minimal design used earlier, this one uses Gatsby and the gatsby-gitbook-starter template to provide a sexy-looking site.  It even features "Edit on GitHub" links that allow you to edit pages directly on GitHub - which is pretty cool.
 
 ## Local Testing
@@ -22,7 +24,7 @@ gatsby serve --prefix-paths
 If everything looks good you can push to production with:
 
 ```
-TODO
+./deploy.sh
 ```
 
 ## Handling a Website Prefix
@@ -60,6 +62,7 @@ As I added content I also noticed a few other changes that I wanted to make:
 * Left-aligning images
 * Removing border-spacing and collapsing borders on tables
 * Forcing all menu items closed and having exceptions for 'expandedNav' (rather than 'collapsedNav')
+* Removed 'favicon' link from config file and instead linked to embedded file: 'src/components/images/favicon.png'
 
 ## Notes on Creating Pages
 

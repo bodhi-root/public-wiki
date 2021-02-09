@@ -110,7 +110,7 @@ React's router is an interesting thing.  It took me quite a while to figure out 
 </Router>
 ```
 
-This app will inspect the URL of pages to see if they match the "path" templates and forward to the respective components.  Whatever content the components return will be rendered inside of the enclosing "<div>".  This means that the code above will always show the same PageHeader at the top of the page.  Only the body will change in response to routes.
+This app will inspect the URL of pages to see if they match the "path" templates and forward to the respective components.  Whatever content the components return will be rendered inside of the enclosing ```<div>```.  This means that the code above will always show the same PageHeader at the top of the page.  Only the body will change in response to routes.
 
 The components we invoke then tend to look like this:
 

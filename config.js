@@ -56,8 +56,7 @@ const config = {
     title: 'Gatsby Gitbook Boilerplate | Hasura',
     description: 'Documentation built with mdx. Powering hasura.io/learn ',
     ogImage: null,
-    docsLocation: 'https://github.com/hasura/gatsby-gitbook-boilerplate/tree/master/content',
-    favicon: 'https://graphql-engine-cdn.hasura.io/img/hasura_icon_black.svg',
+    docsLocation: 'https://github.com/bodhi-root/public-wiki/tree/master/content'
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.

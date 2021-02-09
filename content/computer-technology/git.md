@@ -38,7 +38,7 @@ The following commands are useful for viewing old versions and switching back to
 | Command | Description |
 |---------|-------------|
 | ```git branch``` | Print a list of all branches |
-| ```git branch <branch>``` | Creates a new branch with the given name. This will not switch to the new branch unless you use the "-b" option. If you want to delete a branch use the "-d <branch>" option. |
+| ```git branch <branch>``` | Creates a new branch with the given name. This will not switch to the new branch unless you use the "-b" option. If you want to delete a branch use the ```-d <branch>``` option. |
 | ```git checkout <branch>``` | Checkout the given branch. This will checkout the HEAD version of this branch. |
 
 If you forget to start a new branch and instead start working on master (like I frequently seem to do), you can create a new branch with:

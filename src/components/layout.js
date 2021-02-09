@@ -11,14 +11,14 @@ import config from '../../config.js';
 const Wrapper = styled('div')`
   display: flex;
   justify-content: space-between;
-  background: ${({ theme }) => theme.colors.background};
+  background: #fff;
 
   .sideBarUL li a {
-    color: ${({ theme }) => theme.colors.text};
+    color: hsla(0,0%,100%,.8);
   }
 
   .sideBarUL .item > a:hover {
-    background-color: #1ed3c6;
+    background-color: hsla(0,0%,100%,.06);
     color: #fff !important;
 
     /* background: #F8F8F8 */
@@ -34,10 +34,10 @@ const Content = styled('main')`
   flex-grow: 1;
   margin: 0px 88px;
   padding-top: 3rem;
-  background: ${({ theme }) => theme.colors.background};
+  background: #fff;
 
   table tr {
-    background: ${({ theme }) => theme.colors.background};
+    background: #fff;
   }
 
   @media only screen and (max-width: 1023px) {
@@ -56,6 +56,7 @@ const MaxWidth = styled('div')`
 
 const LeftSideBarWidth = styled('div')`
   width: 298px;
+  background-color: #001933;
 `;
 
 const RightSideBarWidth = styled('div')`

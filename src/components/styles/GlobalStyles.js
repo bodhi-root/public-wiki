@@ -232,6 +232,7 @@ export const baseStyles = css`
   }
   .headerTitle a {
     color: #fff;
+    font-size: 150%;
   }
 
   .headerTitle a:hover {
@@ -286,7 +287,8 @@ export const baseStyles = css`
   }
 
   .navBarBrand img {
-    width: 120px;
+    width: 60px;
+    height: 60px;
     margin-right: 6px;
     display: inline-block;
   }
@@ -320,7 +322,7 @@ export const baseStyles = css`
     border: 0 !important;
     background-color: rgb(245, 247, 249); /* !important; */
   }
-  
+
   blockquote {
     color: rgb(116, 129, 141);
     margin: 0px 0px 24px;
@@ -450,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #003268;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +472,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #fff;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -481,12 +483,15 @@ export const baseStyles = css`
   }
 
   .showFrontLine .item > a:hover {
-    background-color: #001933;
+    /*background-color: #001933;*/
+    background-color: hsla(0,0%,100%,.06);
   }
 
   .showFrontLine .active > a {
     /* color: #fff; */
-    background-color: #001933;
+    /*background-color: #001933;*/
+    background-color: #003268;
+    color: #fff !important;
   }
 
   .sideBarUL .item .item {
@@ -508,7 +513,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #003268; !important;
     color: #fff;
   }
 
@@ -751,7 +756,7 @@ export const baseStyles = css`
       margin-top: 15px;
       position: relative;
       padding-bottom: 20px;
-      border-top: 1px solid #fff;
+      /*border-top: 1px solid #fff;*/
     }
     .headerTitle {
       padding-right: 50px;

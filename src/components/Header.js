@@ -42,18 +42,18 @@ function myFunction() {
 
 const StyledBgDiv = styled('div')`
   height: 60px;
-  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
-  background-color: #f8f8f8;
+  /*box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);*/
+  background-color: #001932;
   position: relative;
   display: none;
-  background: ${props => (props.isDarkThemeActive ? '#001932' : undefined)};
+  /*background: #001932;*/
 
   @media (max-width: 767px) {
     display: block;
   }
 `;
 
-const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
+const Header = ({ location }) => (
   <StaticQuery
     query={graphql`
       query headerTitleQuery {
@@ -76,7 +76,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
       }
     `}
     render={data => {
-      const logoImg = require('./images/logo.svg');
+      const logoImg = require('./images/logo.png');
 
       const twitter = require('./images/twitter.svg');
 
@@ -122,7 +122,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
             <div id="navbar" className={'topnav'}>
               <div className={'visibleMobile'}>
                 <Sidebar location={location} />
-                <hr />
+                {/*<hr />*/}
               </div>
               <ul className={'navBarUL navBarNav navBarULRight'}>
                 {headerLinks.map((link, key) => {
@@ -162,15 +162,15 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 {tweetText !== '' || githubUrl !== '' ? (
                   <li className="divider hiddenMobile"></li>
                 ) : null}
-                {config.header.social ? (
+                {/*config.header.social ? (
                   <li className={'hiddenMobile'}>
                     <ul
                       className="socialWrapper"
                       dangerouslySetInnerHTML={{ __html: config.header.social }}
                     ></ul>
                   </li>
-                ) : null}
-                {githubUrl !== '' ? (
+                ) : null*/}
+                {/*githubUrl !== '' ? (
                   <li className={'githubBtn'}>
                     <GitHubButton
                       href={githubUrl}
@@ -180,17 +180,11 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                       Star
                     </GitHubButton>
                   </li>
-                ) : null}
-                <li>
-                  <DarkModeSwitch
-                    isDarkThemeActive={isDarkThemeActive}
-                    toggleActiveTheme={toggleActiveTheme}
-                  />
-                </li>
+                ) : null*/}
               </ul>
             </div>
           </nav>
-          <StyledBgDiv isDarkThemeActive={isDarkThemeActive}>
+          <StyledBgDiv>
             <div className={'navBarDefault removePadd'}>
               <span
                 onClick={myFunction}

@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
-    pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    pathPrefix: '/public-wiki/',
+    siteUrl: 'https://bodhi-root.github.io/public-wiki/',
     gaTrackingId: null,
     trailingSlash: false,
   },
@@ -9,8 +9,8 @@ const config = {
     logo: '',
     logoLink: '/',
     title:
-      `<a href="/">Dan's Notes</a>`,
-    githubUrl: 'https://github.com/hasura/gatsby-gitbook-boilerplate',
+      `<a href="/public-wiki/">Dan's Notes</a>`,
+    githubUrl: 'https://github.com/bodhi-root/public-wiki',
     helpUrl: '',
     tweetText: '',
     social: `<li>

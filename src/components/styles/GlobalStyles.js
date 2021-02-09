@@ -575,6 +575,8 @@ export const baseStyles = css`
   /* tables.css */
   table {
     padding: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
   }
 
   table tr {

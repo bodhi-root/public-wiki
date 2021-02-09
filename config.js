@@ -38,11 +38,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/computer-technology', // add trailing slash if enabled above
+      '/personal',
     ],
-    collapsedNav: [
-      //'/codeblock', // add trailing slash if enabled above
+    expandedNav: [
+      '/computer-technology', // add trailing slash if enabled above
     ],
     /*links: [{ text: 'Hasura', link: 'https://hasura.io' }],*/
     links: [],

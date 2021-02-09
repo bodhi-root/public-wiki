@@ -123,10 +123,10 @@ const Tree = ({ edges }) => {
   const defaultCollapsed = {};
 
   treeData.items.forEach(item => {
-    if (config.sidebar.collapsedNav && config.sidebar.collapsedNav.includes(item.url)) {
-      defaultCollapsed[item.url] = true;
-    } else {
+    if (config.sidebar.expandedNav && config.sidebar.expandedNav.includes(item.url)) {
       defaultCollapsed[item.url] = false;
+    } else {
+      defaultCollapsed[item.url] = true;
     }
   });
   const [collapsed, setCollapsed] = useState(defaultCollapsed);

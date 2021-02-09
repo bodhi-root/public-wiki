@@ -71,6 +71,10 @@ export const StyledMainWrapper = styled.div`
     background: '#fff';
   }
 
+  .gatsby-resp-image-wrapper {
+    margin-left: 0px !important;  /* left-align images */
+  }
+
   @media (max-width: 767px) {
     padding: 0 15px;
   }

@@ -6,7 +6,7 @@ title: Docker
 
 Docker was pretty intimidating to me at first.  After upgrading to Windows 10, installing Docker Desktop, and playing around with some of the tutorials it has started to make a bit more sense.  First, there is a great cheat sheet available here:
 
-* https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf
+* [Docker Cheat Sheet](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf)
 
 This includes a useful description of the docker run command and its main parameters:
 

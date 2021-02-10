@@ -35,6 +35,7 @@ const Content = styled('main')`
   margin: 0px 88px;
   padding-top: 3rem;
   background: #fff;
+  overflow-x: hidden;
 
   table tr {
     background: #fff;

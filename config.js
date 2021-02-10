@@ -13,7 +13,8 @@ const config = {
     githubUrl: 'https://github.com/bodhi-root/public-wiki',
     helpUrl: '',
     tweetText: '',
-    social: `<li>
+    social: ``,
+    /*social: `<li>
 		    <a href="https://twitter.com/hasurahq" target="_blank" rel="noopener">
 		      <div class="twitterBtn">
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/twitter-brands-block.svg' alt={'Twitter'}/>
@@ -26,7 +27,7 @@ const config = {
 		        <img src='https://graphql-engine-cdn.hasura.io/learn-hasura/assets/homepage/discord-brands-block.svg' alt={'Discord'}/>
 		      </div>
 		    </a>
-		  </li>`,
+		  </li>`,*/
     links: [{ text: '', link: '' }],
     search: {
       enabled: false,

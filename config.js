@@ -40,6 +40,8 @@ const config = {
   sidebar: {
     forcedNavOrder: [
       '/computer-technology', // add trailing slash if enabled above
+      '/lean-process-management',
+      '/class-notes',
       '/personal',
     ],
     expandedNav: [

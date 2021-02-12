@@ -24,6 +24,6 @@ ERACS was a method for identifying ways to remove waste in processes and thereby
 
 Below is a presentation that Scott presented during his Potato Head training.  I've also written up a description of what he did as he walked us through some of the hands-on portions of the exercise, highlighting key lessons and concepts he threw in along the way.
 
-* [Power Point Presentation](assets/Manager as Coach.pptx) - Scott Heydon, LEI
-* [Write-up Describing Hands-on Portion of Class](assets/Mr Potato Head - Learning Exercise.docx) - Dan Rogers
-* [Observing Work Process Sheet](assets/LEI - Observing Work Process Sheet.pdf) - Handout used for writing down the steps in a process and timing them.
+* [Power Point Presentation](assets/Manager-as-Coach.pptx) - Scott Heydon, LEI
+* [Write-up Describing Hands-on Portion of Class](assets/Mr_Potato_Head-Learning_Exercise.docx) - Dan Rogers
+* [Observing Work Process Sheet](assets/LEI-Observing-Work-Process-Sheet.pdf) - Handout used for writing down the steps in a process and timing them.

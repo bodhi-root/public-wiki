@@ -96,7 +96,7 @@ The VP of People Operations at Google describes the culture and practices at tha
 
 Recommended by: Doug Meiser
 
-[Link to My Notes](work_rules.md)
+[Link to My Notes](work_rules)
 
 ### The Innovator's Solution
 

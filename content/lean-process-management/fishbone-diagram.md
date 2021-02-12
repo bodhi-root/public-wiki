@@ -4,7 +4,7 @@ title: Fishbone Diagram
 
 The Fishbone Diagram (or, if you want to be fancy: the "Ishikawa Diagram", named after its creator Kaoru Ishikawa) is used to brainstorm root causes of problems.  It resembles a fish.  The problem you are trying to diagnose is written on the "head" of the fish, and the possible causes are listed on branches protruding from the "spine" of the fish.  Each branch enumerates causes of a different type:
 
-![Fishbone Diagram](assets/fishbone-diagram.jpg)
+![Fishbone Diagram](assets/fishbone-diagram.png)
 
 The diagram above the branches are labeled:
 

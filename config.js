@@ -39,13 +39,14 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/google-cloud-platform',
       '/computer-technology', // add trailing slash if enabled above
       '/lean-process-management',
       '/class-notes',
       '/personal',
     ],
     expandedNav: [
-      '/computer-technology', // add trailing slash if enabled above
+      //'/computer-technology', // add trailing slash if enabled above
     ],
     /*links: [{ text: 'Hasura', link: 'https://hasura.io' }],*/
     links: [],

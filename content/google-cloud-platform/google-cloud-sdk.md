@@ -111,7 +111,7 @@ Properties can be set using "gcloud config set" as shown:
 gcloud config set account your.email@company.com
 ```
 
-This is the syntax for modifying a "core" property.  If you are trying to modify a property under "proxy" you will specify its name with "proxy/<name>".  The typical proxy configurations is shown below.  Of course, replace "your_euid" and "your_password" with the relevant information.
+This is the syntax for modifying a "core" property.  If you are trying to modify a property under "proxy" you will specify its name with ```proxy/<name>```.  The typical proxy configurations is shown below.  Of course, replace "your_euid" and "your_password" with the relevant information.
 
 ```
 gcloud config set proxy/address proxy.domain.com
@@ -186,8 +186,8 @@ gcloud beta compute scp <src> <dst> --internal-ip
 gcloud beta compute scp local_file.txt remote-machine:/home/user/remote_file.txt
 ```
 
-The "src" and "dst" properties are the source and destination.  To specify a file on the remote machine use "<machine-name>:/<path>".
+The "src" and "dst" properties are the source and destination.  To specify a file on the remote machine use ```<machine-name>:/<path>```.
 
 You can also use "--recursive" to copy entire directories recursively.
 
-Just like SSH, you can specify project and zone information with "--project <project> --zone <zone>".  If not specified, these will default to values from your active configuration.
+Just like SSH, you can specify project and zone information with ```--project <project> --zone <zone>```.  If not specified, these will default to values from your active configuration.

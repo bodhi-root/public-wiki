@@ -9,3 +9,8 @@ more class content:
 
 analytics:
 - Python?
+
+site:
+FIX: links with spaces in them don't work
+IMPROVE: click on page in sidebar should open that page's children (ad close
+  any other open children).

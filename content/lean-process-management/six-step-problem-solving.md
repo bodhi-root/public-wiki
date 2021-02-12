@@ -19,7 +19,7 @@ The following worksheet was provided to help us work through this method:
 ![Problem Solving Worksheet - Page 2](assets/problem-solving-worksheet-page2.png)
 ![Problem Solving Worksheet - Page 3](assets/problem-solving-worksheet-page3.png)
 
-[Click Here](assets/Problem Solving Worksheet.docx) to download Word Document.
+[Click Here](assets/Problem_Solving_Worksheet.docx) to download Word Document.
 
 ## Key Points
 
@@ -61,7 +61,7 @@ Measure the result and verify that it obtained the expected outcome. If not, it 
 
 The presentation below is a transcription I made of the deck Ben Root used in his class in 2014:
 
-[Download PowerPoint](assets/Team Problem Solving Workshop.pptx)
+[Download PowerPoint](assets/Team_Problem_Solving_Workshop.pptx)
 
 ## Class Structure
 

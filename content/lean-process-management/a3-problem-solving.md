@@ -8,7 +8,7 @@ title: A3 Problem Solving
 
 ![Sample A3](assets/a3-screenshot.png)
 
-[Download Word Template](assets/A3 - Template.docx)
+[Download Word Template](assets/A3-Template.docx)
 
 ## Sections of an A3
 

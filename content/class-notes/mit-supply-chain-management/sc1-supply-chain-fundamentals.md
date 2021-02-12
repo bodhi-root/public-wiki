@@ -10,17 +10,17 @@ This class (first offered in the Fall of 2014) provides an introduction to Suppl
 
 This class contained the most computations, calculations, and "hard" mathematical applications.  As such, I ended up taking a lot of notes to summarize everything we had learned:
 
-* [Notes - Forecasting.docx](assets/sc1/Notes - Forecasting.docx)
-* [Notes - Inventory Management.docx](assets/sc1/Notes - Inventory Management.docx)
-* [Notes - Inventory Management - Summarized.docx](assets/sc1/Notes - Inventory Management - Summarized.docx)
-* [EOQ Spreadsheets.xlsx](assets/sc1/EOQ Spreadsheets.xlsx)
+* [Notes - Forecasting.docx](assets/sc1/Notes-Forecasting.docx)
+* [Notes - Inventory Management.docx](assets/sc1/Notes-Inventory Management.docx)
+* [Notes - Inventory Management - Summarized.docx](assets/sc1/Notes-Inventory-Management-Summarized.docx)
+* [EOQ Spreadsheets.xlsx](assets/sc1/EOQ_Spreadsheets.xlsx)
 
 ## Course content
 
 ### Week 0 - Course Overview & Logistics
 
-Class Overview ([pdf](assets/sc1/Class Overview.pdf))
-Class Schedule ([pdf](assets/sc1/Class Schedule.pdf))
+Class Overview ([pdf](assets/sc1/Class-Overview.pdf))
+Class Schedule ([pdf](assets/sc1/Class-Schedule.pdf))
 Key Concept Document ([pdf](assets/sc1/SC1x_KeyConcepDocument_v5_1_Complete.pdf), 88 pages, summarizes all course content)
 
 ### Week 1 - Overview of Supply Chain Management & Logistics

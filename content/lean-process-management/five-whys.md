@@ -6,12 +6,13 @@ The "5 Why's" is a process of continuing to ask "Why?" at least 5 times, until t
 
 An example (from [Wikipedia](https://en.wikipedia.org/wiki/5_Whys)):
 
-> __The vehicle will not start.__ (the problem)
-> 1. Why? - The battery is dead. (first why)
-> 2. Why? - The alternator is not functioning. (second why)
-> 3. Why? - The alternator belt has broken. (third why)
-> 4. Why? - The alternator belt was well beyond its useful service life and not replaced. (fourth why)
-> 5. Why? - The vehicle was not maintained according to the recommended service schedule. (fifth why, a root cause)
+__The vehicle will not start.__ (the problem)
+
+1. Why? - The battery is dead. (first why)
+2. Why? - The alternator is not functioning. (second why)
+3. Why? - The alternator belt has broken. (third why)
+4. Why? - The alternator belt was well beyond its useful service life and not replaced. (fourth why)
+5. Why? - The vehicle was not maintained according to the recommended service schedule. (fifth why, a root cause)
 
 Some problems will have more than 1 root cause.  In this case, it is helpful to list all of the potential causes and continue to ask "Why?" for each of them, developing an "Issue Tree" that diagrams all of the potential causes of a problem.
 

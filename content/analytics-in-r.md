@@ -26,8 +26,6 @@ Two other good libraries for machine learning are below.  Be careful with these 
 * [mlr](https://cran.r-project.org/web/packages/mlr/mlr.pdf) - Machine learning library ([tutorial](https://mlr-org.github.io/mlr-tutorial/devel/html/))
 * [caret](https://cran.r-project.org/web/packages/caret/caret.pdf) - Machine learning library
 
-For help on installing packages (and getting past the Kroger firewall from R) see our Installing Packages page.
-
 ## Helpful Resources
 
 ### R Cheatsheets

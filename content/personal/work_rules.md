@@ -121,7 +121,7 @@ Both managers and employees hate performance reviews, but when you try getting r
 2. Consistently Meets Expectations - 40%
 1. Needs Improvement (bottom 5%)
 
-If people are rated a 2 or better they are doing fine.  The real goal of this is to find the to performers and the bottom performs - the two tails.  Eliminating the stigma of being rated a 2 made managers more honest in their ratings and helped identify those who deserved recognition and those who needed help.  (Maybe Kroger could do something like this?)
+If people are rated a 2 or better they are doing fine.  The real goal of this is to find the to performers and the bottom performs - the two tails.  Eliminating the stigma of being rated a 2 made managers more honest in their ratings and helped identify those who deserved recognition and those who needed help.
 
 Laszlo emphasizes the importance of calibrating ratings across managers so that you know they are being consistent.  They also train managers to avoid the typical types of bias.  They even go as far as to print out information cards with common types of bias and ask that managers use these in their calibration sessions.  An excerpt from one of these (shown page 166) defines the biases:
 

@@ -48,7 +48,7 @@ Books from this list I haven't read (but probably should):
 * Date: May 2020
 * Rating Great
 
-Loonshots (How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries) demonstrates the author's belief that "loonshots" are both necessary to a company's survival and nearly impossible to develop in a large organization that focuses on low-risk "franchise" projects.  The author shows how incentives drive people in large companies to focus on these low-risk projects rather than the high-risk/longshot/high-reward projects that are more likely to grow in small, startup companies.  Safi uses multiple examples from history (including radar in WW2, biotech and disease research, movies at Pixar, airline companies, the Polaroid camera, Steve Jobs, Isaac Newton, and others) to demonstrate his point.  The stories make this book a fun and fast read.  Even though the thesis is almost self-evident and doesn't need this much supporting evidence, it is still a great read with a lot of history and lessons learned from history.  The conclusions and suggestions are also VERY applicable to Kroger.
+Loonshots (How to Nurture the Crazy Ideas That Win Wars, Cure Diseases, and Transform Industries) demonstrates the author's belief that "loonshots" are both necessary to a company's survival and nearly impossible to develop in a large organization that focuses on low-risk "franchise" projects.  The author shows how incentives drive people in large companies to focus on these low-risk projects rather than the high-risk/longshot/high-reward projects that are more likely to grow in small, startup companies.  Safi uses multiple examples from history (including radar in WW2, biotech and disease research, movies at Pixar, airline companies, the Polaroid camera, Steve Jobs, Isaac Newton, and others) to demonstrate his point.  The stories make this book a fun and fast read.  Even though the thesis is almost self-evident and doesn't need this much supporting evidence, it is still a great read with a lot of history and lessons learned from history.
 
 [Link to My Notes](assets/Notes-Loonshots.docs)
 
@@ -176,7 +176,7 @@ Great review of this book [here](http://a16z.com/2015/11/13/high-output-manageme
 * Rating: Very Good
 * Date: 2016
 
-Great book about common mistakes made when building a relational database. You learn what to do by learning what not to do. (Sadly, I've seen every one of these mistakes made in production systems at Kroger, and I might have even done a few myself... but at least now I know they're mistakes!)
+Great book about common mistakes made when building a relational database. You learn what to do by learning what not to do. (Sadly, I've seen every one of these mistakes made in production systems at the companies I've worked for, and I might have even done a few myself... but at least now I know they're mistakes!)
 
 Recommended by: Don Humberson
 
@@ -223,7 +223,7 @@ A little boring (and WAY TOO LONG), but still a good intro to some topics.
 * Rating: Great
 * Date: 2015
 
-Amazing book describing different problems in retailing and how analytics can be applied to them. The case studies and proposals are highly relevant to what we do at Kroger and someone could make a whole career out of simply implementing some of these ideas.
+Amazing book describing different problems in retailing and how analytics can be applied to them. The case studies and proposals are highly relevant to what we do at grocery companies and someone could make a whole career out of simply implementing some of these ideas.
 
 Recommended by: Jonathan Olsen
 
@@ -234,7 +234,7 @@ Recommended by: Jonathan Olsen
 * Rating: OK
 * Date: 2015
 
-Jeff Abate told a room full of Retail Ops associates "If you want to know what Kroger will look like in 10 years, read this book." I think he might have meant "The Toyota Way", because that one was much better and much more applicable to work at Kroger. Good book, but I'd definitely recomment "The Toyota Way" over this one.
+Jeff Abate told a room full of Retail Ops associates "If you want to know what out company will look like in 10 years, read this book." I think he might have meant "The Toyota Way", because that one was much better and much more applicable to work at our company. Good book, but I'd definitely recomment "The Toyota Way" over this one.
 
 Recommended by: Jeff Abate
 
@@ -349,7 +349,7 @@ Recommended by: Nick Kaufman
 * Rating: Very Good
 * Date: 2013
 
-Good book - and very practical. Everyone hates bad meetings. This book provides advice for how to run effective meetings, combining that with a story that shows the principles of good (and bad) meetings played out in an interesting way. Many managers at Kroger structure team meetings based on this book. It's an excellent way to think about meetings and a consistent reminder that meetings should be setup with a specific purpose in mind. They should also have drama, context, and importance to those attending the meeting.
+Good book - and very practical. Everyone hates bad meetings. This book provides advice for how to run effective meetings, combining that with a story that shows the principles of good (and bad) meetings played out in an interesting way.  It's an excellent way to think about meetings and a consistent reminder that meetings should be setup with a specific purpose in mind. They should also have drama, context, and importance to those attending the meeting.
 
 Recommended by: Nick Kaufman
 

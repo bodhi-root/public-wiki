@@ -39,8 +39,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
+      '/azure',
       '/google-cloud-platform',
       '/computer-technology', // add trailing slash if enabled above
+      '/analytics-in-r',
+      '/analytics-in-excel',
       '/lean-process-management',
       '/class-notes',
       '/personal',

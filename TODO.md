@@ -1,7 +1,9 @@
 
 VM notes
 
-Azure?
+Azure
+- DataBricks
+- Organizing a Data Lake?
 
 more class content:
 - MIT 0, 2, 3

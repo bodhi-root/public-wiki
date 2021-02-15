@@ -9,7 +9,7 @@ According to LEI's [website](http://www.lean.org/WhatsLean/):
 
 > The core idea (of Lean) is to maximize customer value while minimizing waste. Simply, lean means creating more value for customers with fewer resources.
 
-I've always thought that definition was incomplete.  The most exciting part of Lean - at least LEI's approach to Lean - is not the cold optimization and improvement of processes to eliminate waste.  To me that's just context.  The exciting part of Lean is the way that it engages front-line associates in problem-solving and process improvement, potentially unlocking the skills and talents of 400,000 Kroger associates!  I would define Lean as:
+I've always thought that definition was incomplete.  The most exciting part of Lean - at least LEI's approach to Lean - is not the cold optimization and improvement of processes to eliminate waste.  To me that's just context.  The exciting part of Lean is the way that it engages front-line associates in problem-solving and process improvement, potentially unlocking the skills and talents of hundreds of thousands of associates!  I would define Lean as:
 
 > Maximizing customer value and minimizing waste by empowering associates at every level and engaging them in problem-solving and continuous improvement of value-creating processes.
 

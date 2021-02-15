@@ -73,7 +73,7 @@ You'll probably see something like:
 ```
 NAME     IS_ACTIVE  ACCOUNT                PROJECT             DEFAULT_REGION  DEFAULT_ZONE
 default  False      your.email@gmail.com   your-project-name
-proxy    True       your.email@kroger.com  your-project-name   us-central1-c   us-central1
+proxy    True       your.email@company.com  your-project-name   us-central1-c   us-central1
 ```
 
 This shows that you have two configurations: "default" and "proxy" and that the "proxy" configuration is currently active.  You can activate a configuration with:
@@ -131,7 +131,7 @@ You will not be able to interact with the cloud until you authenticate.  The com
 gcloud auth login
 ```
 
-This will open up a web page in your browser to login to your Google account.  Login using your Kroger account and you should get a message indicating that you are now logged in with that user.
+This will open up a web page in your browser to login to your Google account.  Login using your corporate account and you should get a message indicating that you are now logged in with that user.
 
 You can view a list of authentication accounts with:
 

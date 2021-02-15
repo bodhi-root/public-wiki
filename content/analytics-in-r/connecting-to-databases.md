@@ -208,7 +208,7 @@ dbWriteTable(conn, "my_table",
 
 ## Connecting to Google Big Query
 
-When using bigrquery, R will use web authentication for your Google Account. There is a one time process where you will have to save your key. After this, you will still need to go through the web authentication, but you will not be required to re-save the key. See the bigrquery documentation for more information. The first time using Big Query, you may also need to edit your .Renviron with the Kroger proxy.
+When using bigrquery, R will use web authentication for your Google Account. There is a one time process where you will have to save your key. After this, you will still need to go through the web authentication, but you will not be required to re-save the key. See the bigrquery documentation for more information. The first time using Big Query, you may also need to edit your .Renviron to setup an HTTP/HTTPS proxy.
 
 If you haven't set up your .Renviron, run this command:
 
